@@ -5,7 +5,7 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 ## Git Links
 
 [![Professional Projects](https://img.shields.io/badge/PROFESSIONAL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwestall)
-[![Personal Projects](https://img.shields.io/badge/PERSONAL-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)]()
+[![Personal Projects](https://img.shields.io/badge/PERSONAL-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jlwtformer)
 
 ## Platforms
 
