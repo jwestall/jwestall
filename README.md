@@ -4,22 +4,16 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 
 ## Git Links
 
----
-
 [![Professional Projects](https://img.shields.io/badge/PROFESSIONAL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwestall)
 [![Personal Projects](https://img.shields.io/badge/PERSONAL-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
 ## Platforms
-
----
 
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ## Languages
-
----
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/CSHARP-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -32,8 +26,6 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 
 ## UI Technologies
 
----
-
 ![Blazor](https://img.shields.io/badge/BLAZOR-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
@@ -42,8 +34,6 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 
 ## Databases
 
----
-
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MSAccess](https://img.shields.io/badge/MSACCESS-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
@@ -51,8 +41,6 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Development Tools
-
----
 
 ![CMake](https://img.shields.io/badge/CMAKE-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,14 +52,10 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 
 ## Written Work Links
 
----
-
 [![Blog](https://img.shields.io/badge/MY_BLOG-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://jwestall.com/blog.html)
 [![XDA](https://img.shields.io/badge/XDA_DEVELOPERS-EA7100?style=for-the-badge&logo=xdadevelopers&logoColor=white)](https://www.xda-developers.com/author/jakewestall/)
 
 ## Contact Links
-
----
 
 ![Element](https://img.shields.io/badge/ELEMENT-0DBD8B?style=for-the-badge&logo=element&logoColor=white)
 [![PGP Pub Key](https://img.shields.io/badge/PGP_PUB_KEY-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://jwestall.com/res/jacobwestall.asc)
@@ -79,7 +63,5 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jwestall_com)
 
 ## Support Links
-
----
 
 [![LiberaPay](https://img.shields.io/badge/LIBERAPAY-F6C915?style=for-the-badge&logo=liberapay&logoColor=white)](https://liberapay.com/Jacob_Westall/)
