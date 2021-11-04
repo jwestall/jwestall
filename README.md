@@ -62,6 +62,10 @@ Hello there! I'm Jacob, a self taught programmer with a background in mechanical
 [![Email](https://img.shields.io/badge/EMAIL-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jacob@jwestall.com)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jwestall_com)
 
+## PGP Public Fingerprint
+
+![PGP Pub Fingerprint](https://img.shields.io/badge/60FC_6176_612A_1476_3045_BAA9_6894_8833_CC1F_3677-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+
 ## Support Links
 
 [![LiberaPay](https://img.shields.io/badge/LIBERAPAY-F6C915?style=for-the-badge&logo=liberapay&logoColor=white)](https://liberapay.com/Jacob_Westall/)
